@@ -117,3 +117,59 @@ nav li:hover .dropdown-content {
 .products .product button:hover {
     background-color: #111;
 }
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+
+.footer-info {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.footer-section {
+    flex: 1;
+    min-width: 200px;
+}
+
+.footer-section h3 {
+    margin-top: 0;
+}
+
+.footer-section p, 
+.footer-section ul, 
+.footer-section ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.footer-section ul {
+    margin-top: 10px;
+}
+
+.footer-section ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-section ul li a:hover {
+    text-decoration: underline;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer-section .social-media {
+    display: flex;
+    gap: 10px;
+}
+
+.footer-section .social-media li {
+    display: inline;
+}
