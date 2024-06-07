@@ -26,6 +26,3 @@ Contact us for faster response during business hours:
 
 If you have any complaints, reach us via phone between 9 AM to 8 PM or send an email to cctvcamerabdctg@gmail.com.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
